@@ -1,10 +1,14 @@
 #first{
 border: 5px solid red;
 border-width: 5px;
+border-style: double;
+border-color: red white
 margin-left: 500px;
 margin-right: 800px;
 margin-bottom: 50px;
 padding-top: 50px;
+padding left: 50px;
+padding right: 50px;
 font-family: verdana;
 font-size: 15px;
 font-style: italic;
@@ -19,6 +23,10 @@ padding-top: 50px;
 font-family: verdana;
 font-size: 15px;
 font-style: normal;
+background: #f0f0f0;
+width: 300px; 
+padding: 10px; 
+border: 2px solid #000; 
 }
 #third{
 border: 5px solid red;
@@ -30,4 +38,10 @@ padding-top: 10px;
 font-family: Open Sans;
 font-size: 15px;
 font-style: oblique;
+display: block;
+display: inline;
+display: run-in;
+padding: 5%;
+padding: 10px 20px;
+padding: 10px 3% 20px;
 }
