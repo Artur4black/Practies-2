@@ -1,0 +1,33 @@
+#first{
+border: 5px solid red;
+border-width: 5px;
+margin-left: 500px;
+margin-right: 800px;
+margin-bottom: 50px;
+padding-top: 50px;
+font-family: verdana;
+font-size: 15px;
+font-style: italic;
+}
+#second{
+border: 5px blue;
+border-width: 5px;
+margin-left: 500px;
+margin-right: 800px;
+margin-bottom: 50px;
+padding-top: 50px;
+font-family: verdana;
+font-size: 15px;
+font-style: normal;
+}
+#third{
+border: 5px solid red;
+border-width: 10px;
+margin-left: 500px;
+margin-right: 800px;
+margin-bottom: 50px;
+padding-top: 10px;
+font-family: Open Sans;
+font-size: 15px;
+font-style: oblique;
+}
